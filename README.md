@@ -54,15 +54,6 @@
 
 ---
 
-Recommended:
-
-* Main UI
-* Recovery process
-* GPU benchmark results
-* Processing dashboard
-
----
-
 # Quick Start
 
 1. Download the latest release
