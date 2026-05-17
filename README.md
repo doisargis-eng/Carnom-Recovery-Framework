@@ -54,10 +54,6 @@
 
 ---
 
-# Screenshots
-
-> Add your screenshots here.
-
 Recommended:
 
 * Main UI
